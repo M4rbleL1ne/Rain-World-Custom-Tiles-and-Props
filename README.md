@@ -15,8 +15,8 @@ A few little rules to upload your files:
 
 Credit template:
 - *[insert contributor(s) name(s) here]* for the *[tile(s)/prop(s)/tile fixe(s)/prop fixe(s)]*: *[insert your tile(s)/prop(s)/tile fixe(s)/prop fixe(s) name(s) here]*;
-You can add the editor dependencies after the name: (COM) for RW Community Editor, (MSC) for MSC editor, (DR) for Drought editor...
-(One they should be merged)
+Optionally, you can add the editor dependencies after the name: (COM) for RW Community Editor, (MSC) for MSC editor, (DR) for Drought editor... Features that require the vanilla editor will (should) work on all, so you don't need to add (VAN).
+(One day they will be merged)
 
 If you can't upload files to github, send them to someone else who can and accepts to do it for you.
 That's all I think, have fun!
