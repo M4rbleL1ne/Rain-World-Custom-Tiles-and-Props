@@ -14,7 +14,9 @@ A few little rules to upload your files:
 - put your name in the credits file with the tiles you made **(optional)**;
 
 Credit template:
-- *[insert contributor(s) name(s) here]* for the *[tile(s)/prop(s)/tile fixe(s)/prop fixe(s)]*: *[insert your tile(s)/prop(s)/tile fixe(s)/prop fixe(s) name(s) here]*, for *[any editor, RW Community editor, Drought editor, MSC editor, ...]*;
+- *[insert contributor(s) name(s) here]* for the *[tile(s)/prop(s)/tile fixe(s)/prop fixe(s)]*: *[insert your tile(s)/prop(s)/tile fixe(s)/prop fixe(s) name(s) here]*;
+You can add the editor dependencies after the name: (COM) for RW Community Editor, (MSC) for MSC editor, (DR) for Drought editor...
+(One they should be merged)
 
 If you can't upload files to github, send them to someone else who can and accepts to do it for you.
 That's all I think, have fun!
