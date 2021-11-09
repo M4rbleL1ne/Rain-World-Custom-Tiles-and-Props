@@ -8,9 +8,12 @@ A few little rules to upload your files:
 - make sure it doesn't break anything that relies on tile/prop/category order;
 - if it's a tile, make sure the preview works properly;
 - make sure to put any new category at the end of the init file;
-- prefer new custom categories **(__optional__)**;
-- if it's a tile, if possible, make your tile specs enough readable **(__optional__)**;
+- prefer new custom categories **(optional)**;
+- if it's a tile, if possible, make your tile specs enough readable **(optional)**;
 - tile/prop fixes are allowed if they make the tile/prop work better than before;
-- put your name in the credits file with the tiles you made **(__optional__)**;
+- put your name in the credits file with the tiles you made **(optional)**;
+
+Credit template:insert your name here]
+- [insert contributor name here] for the [tile(s)/prop(s)/tile fixe(s)/prop fixe(s)]: [insert your tile(s)/prop(s)/tile fixe(s)/prop fixe(s) names here]; for [any editor, RW community editor, drought editor, MSC editor, ...]
 
 That's all I think, have fun!
