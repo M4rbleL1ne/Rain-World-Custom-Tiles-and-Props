@@ -16,4 +16,5 @@ A few little rules to upload your files:
 Credit template:
 - *[insert contributor(s) name(s) here]* for the *[tile(s)/prop(s)/tile fixe(s)/prop fixe(s)]*: *[insert your tile(s)/prop(s)/tile fixe(s)/prop fixe(s) name(s) here]*, for *[any editor, RW Community editor, Drought editor, MSC editor, ...]*;
 
+If you can't upload files to github, send them to someone else who can and accepts to do it for you.
 That's all I think, have fun!
