@@ -14,6 +14,6 @@ A few little rules to upload your files:
 - put your name in the credits file with the tiles you made **(optional)**;
 
 Credit template:
-- *[insert contributor(s) name(s) here]* for the *[tile(s)/prop(s)/tile fixe(s)/prop fixe(s)]*: *[insert your tile(s)/prop(s)/tile fixe(s)/prop fixe(s) name(s) here]*, *for [any editor, RW community editor, Drought editor, MSC editor, ...]*;
+- *[insert contributor(s) name(s) here]* for the *[tile(s)/prop(s)/tile fixe(s)/prop fixe(s)]*: *[insert your tile(s)/prop(s)/tile fixe(s)/prop fixe(s) name(s) here]*, *for [any editor, RW Community editor, Drought editor, MSC editor, ...]*;
 
 That's all I think, have fun!
