@@ -2,7 +2,7 @@
 A repository to keep most of the tiles and props created by the Rain World community members and to share more easily them with others.
 
 A few rules to upload your files:
-- check a tile/prop iof the same name isn't already on the repo;
+- check a tile/prop of the same name isn't already on the repo;
 - prefer pull requests (direct commits can become messy);
 - never replace the whole Copy To Init.txt or Replace To Init.txt files from this repo, edit or compare instead;
 - make sure your tile/prop works;
