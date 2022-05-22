@@ -6,3 +6,4 @@ Thanks to:
 - Wrayk for the tiles in the Categories "Lush Mire" and for the Props in the Category "Lush Mire Props";
 - Sacretis for the tile Industrial Window
 - Kaeporo for the tiles in the Categories "Ridgeworks"
+- Coolkid for the tiles in the Categories "Random Stuff" and for the Props in the Category "Sharps";
