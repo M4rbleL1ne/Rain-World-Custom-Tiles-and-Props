@@ -211,6 +211,9 @@
 [#nm:"cage lamp UR", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"cage lamp DR", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"cage lamp DL", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Stalagtite", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2, 3, 4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Lattice", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Lattice Extended", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
 -["Ridgeworks", color(251, 79, 79)]
 [#nm:"Icicle A", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "glass"]]
