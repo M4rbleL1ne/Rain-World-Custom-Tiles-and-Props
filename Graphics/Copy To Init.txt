@@ -196,7 +196,7 @@
 [#nm:"HK Wide Platform", #sz:point(6,1), #specs:[6,6,6,6,6,6], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Square Metal Indent", #sz:point(2,2), #specs:[1, 1, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
--[Random Tiles", color(92, 7, 130)]
+-["Random Tiles", color(92, 7, 130)]
 [#nm:"Industrial Window", #sz:point(2,2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[6,1,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"BigBrickCorn", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"3DBrickCorn", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
