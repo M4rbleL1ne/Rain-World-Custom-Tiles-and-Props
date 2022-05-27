@@ -1,12 +1,11 @@
 Thanks to:
-- Coolkid for the tiles in the Categories "Random Stuff" and for the Props in the Category "Sharps";
+- Coolkid for some tiles in the category "Com Misc3" and for the props in the category "Sharps";
 - Dakras for the tiles in the categories "More Harvester Tiles", "Temple Pillars Extended", "Special Stone", "Special Stone no tuch" and for the props in the category "Crusher Tiles";
-- DOGGO for the tiles in the Categories "TM Custom Misc Props"
-- FISH for the tiles in the Categories "Garden" and "Castle" and "Coral Caves";
-- Fishswallower for the tiles in the Categories "Plaques de metal", "Misc 3", "Misc 4" and for the Props in the Category "PropsOnly";
-- Kaeporo for the tiles in the Categories "Ridgeworks"
-- Matten for the tiles in the Categories "3x3 Pipes";
-- Sacretis for the tile Industrial Window
-- Wrayk for the tiles in the Categories "Lush Mire", "Rig Tilees" and for the Props in the Category "Lush Mire Props";
-- 1MINISKIDI for the tiles in the Categories "Random Stuff"
-
+- DOGGO for the tiles in the category "TM Custom Misc Props";
+- FISH for the tiles in the categories "Garden", "Castle" and "Coral Caves";
+- Fishswallower for the tiles in the categories "NH Metal Plates", "Com Misc1", "Com Misc2" and for the props in the category "PropsOnly";
+- Kaeporo for the tiles in the categories "Ridgeworks" and "Ridgeworks2";
+- Matten for the tiles in the category "3x3 Pipes";
+- Sacretis for the tiles "Industrial Window" and "Stalagtite";
+- Wrayk for the tiles in the categories "Lush Mire", "Rig Tiles" and for the props in the category "Lush Mire Props";
+- 1MINISKIDI for some tiles in the Categories "Com Misc3";
