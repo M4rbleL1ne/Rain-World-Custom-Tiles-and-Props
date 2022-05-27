@@ -9,5 +9,5 @@ Thanks to:
 - Sacretis for the tile Industrial Window and stalagitie
 - Wrayk for the tiles in the Categories "Lush Mire", "Rig Tilees" and for the Props in the Category "Lush Mire Props";
 - 1MINISKIDI for the tiles in the Categories "Random Stuff", "Custom Pipes"
-- Cappin for the Bell
+- Cappin for the tiles in Categories "Random Stuff"
 - DrCorporalKlinger for the FancyBellTest
