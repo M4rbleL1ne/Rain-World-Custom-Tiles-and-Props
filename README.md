@@ -22,3 +22,5 @@ Optionally, you can add the editor dependencies after the name: (COM) for RW Com
 
 If you can't upload files to github, send them to someone else who can and accepts to do it for you.
 That's all I think, have fun!
+
+**Warning: The editor has a tile preview limit. Once the limit is reached, tiles won't have any preview. However, they will still render well. You can fix this by uninstalling some tiles or download the Community editor.**
