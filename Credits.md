@@ -8,4 +8,6 @@ Thanks to:
 - Matten for the tiles in the category "3x3 Pipes";
 - Sacretis for the tiles "Industrial Window" and "Stalagtite";
 - Wrayk for the tiles in the categories "Lush Mire", "Rig Tiles" and for the props in the category "Lush Mire Props";
-- 1MINISKIDI for some tiles in the Categories "Com Misc3";
+- 1MINISKIDI for some tiles in the categories "Com Misc3" and "Custom Pipes";
+- Cappin for the tile "Bell";
+- DrCorporalKlinger for the "FancyBellTest".
