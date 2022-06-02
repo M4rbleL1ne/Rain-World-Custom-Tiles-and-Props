@@ -3,7 +3,7 @@ Thanks to:
 - Dakras for the tiles in the categories "More Harvester Tiles", "Temple Pillars Extended", "Special Stone", "Special Stone no tuch" and for the props in the category "Crusher Tiles";
 - DOGGO for the tiles in the Categories "TM Custom Misc Props"
 - FISH for the tiles in the Categories "Garden" and "Castle" and "Coral Caves";
-- Fishswallower for the tiles in the Categories "Plaques de metal", "Misc 3", "Misc 4" and for the Props in the Category "PropsOnly";
+- Fishswallower for the tiles in the Categories "Plaques de metal", "Misc 3", "Misc 4", "Com Misc 3" and for the Props in the Category "PropsOnly";
 - Kaeporo for the tiles in the Categories "Ridgeworks"
 - Matten for the tiles in the Categories "3x3 Pipes";
 - Sacretis for the tile Industrial Window and stalagitie
@@ -11,3 +11,4 @@ Thanks to:
 - 1MINISKIDI for the tiles in the Categories "Random Stuff", "Custom Pipes"
 - Cappin for the tiles in Categories "Random Stuff"
 - DrCorporalKlinger for the FancyBellTest
+- Cotton for the Tiles in the Catergories "Com Misc 3"
