@@ -1,6 +1,6 @@
 Thanks to:
 - Coolkid for the tiles in the Categories "Random Stuff" and for the Props in the Category "Sharps";
-- Dakras for the tiles in the categories "More Harvester Tiles", "Temple Pillars Extended", "Special Stone", "Special Stone no tuch" and for the props in the category "Crusher Tiles";
+- Dakras for the tiles in the categories "More Harvester Tiles", "Temple Pillars Extended", "Special Stone", "Special Stone no tuch", "COM Misc 3" and for the props in the category "Crusher Tiles";
 - DOGGO for the tiles in the Categories "TM Custom Misc Props"
 - FISH for the tiles in the Categories "Garden" and "Castle" and "Coral Caves";
 - Fishswallower for the tiles in the Categories "Plaques de metal", "Misc 3", "Misc 4", "Com Misc 3" and for the Props in the Category "PropsOnly";
