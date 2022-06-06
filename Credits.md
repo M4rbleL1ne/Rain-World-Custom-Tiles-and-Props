@@ -5,10 +5,11 @@ Thanks to:
 - FISH for the tiles in the Categories "Garden" and "Castle" and "Coral Caves";
 - Fishswallower for the tiles in the Categories "Plaques de metal", "Misc 3", "Misc 4", "Com Misc 3" and for the Props in the Category "PropsOnly";
 - Kaeporo for the tiles in the Categories "Ridgeworks"
-- Matten for the tiles in the Categories "3x3 Pipes";
+- Matten for the tiles in the Categories "3x3 Pipes", "COM Misc 3";
 - Sacretis for the tile Industrial Window and stalagitie
 - Wrayk for the tiles in the Categories "Lush Mire", "Rig Tilees", "Com misc 3" and for the Props in the Category "Lush Mire Props";
-- 1MINISKIDI for the tiles in the Categories "Random Stuff", "Custom Pipes"
-- Cappin for the tiles in Categories "Random Stuff"
-- DrCorporalKlinger for the FancyBellTest
-- Cotton for the Tiles in the Catergories "Com Misc 3"
+- 1MINISKIDI for the tiles in the Categories "Random Stuff", "Custom Pipes";
+- Cappin for the tiles in Categories "Random Stuff";
+- DrCorporalKlinger for the FancyBellTest;
+- Cotton for the Tiles in the Catergories "Com Misc 3";
+- Perr for the Tiles in the Categories "Com Misc 3";
